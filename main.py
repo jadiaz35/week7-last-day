@@ -24,6 +24,6 @@ from min_max import min_max
 # loop()
 # random()
 ranges()
-# enum()
+enum()
 # zip()
 # min_max()
